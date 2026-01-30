@@ -55,6 +55,3 @@ Performance optimization
 👤 Author
 Sonu Saini
 Aspiring Data Scientist | Power BI | SQL | Excel | ML
-
-Aman / Naveen Kumar
-Aspiring Data Analyst | Power BI | SQL | Excel
